@@ -1,0 +1,1 @@
+rootProject.name = "mining_quiz_backend"
